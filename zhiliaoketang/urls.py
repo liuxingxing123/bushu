@@ -26,6 +26,6 @@ urlpatterns = [
     url(r'^$', news_view.index, name='index'),
     url(r'^an/$', news_view.add_news, name='add_news'),
     url(r'^nd/<news_id>/$', news_view.add_news, name='add_news'),
-    url(r'^static/(?P<path>.*)$', static.serve,
+    url(r'^static/(?P<path>.*)$',
         {'document_root': settings.STATIC_ROOT}, name='static')
 ]
