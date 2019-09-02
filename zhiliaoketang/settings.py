@@ -27,7 +27,7 @@ DEBUG = False
 
 # 添加域名，或网站的ip地址
 # 以后别人只能通过ALLOWED_HOSTS中的方式进行访问
-ALLOWED_HOSTS = ['192.168.179.130']
+ALLOWED_HOSTS = ['192.168.179.130','jackeylove3.cn']
 
 # Application definition
 
