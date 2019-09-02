@@ -23,11 +23,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'o%*ivv=n(nb@14t(%8cugo7wg^@eu8%xt$w8butxqi@*@-lelp'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 # 添加域名，或网站的ip地址
 # 以后别人只能通过ALLOWED_HOSTS中的方式进行访问
-ALLOWED_HOSTS = ['192.168.179.130','jackeylove3.cn']
+ALLOWED_HOSTS = ['192.168.179.130','127.0.0.1','jackeylove3.cn']
 
 # Application definition
 
