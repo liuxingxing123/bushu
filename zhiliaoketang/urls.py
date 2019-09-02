@@ -16,6 +16,8 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from news import views as news_view
+from django.conf import settings
+from django.conf.urls.static import static
 
 # https://gitee.com/hynever/zhiliaoketang.git
 
@@ -24,4 +26,4 @@ urlpatterns = [
     url(r'^$',news_view.index,name='index'),
     url(r'^an/$',news_view.add_news,name='add_news'),
     url(r'^nd/<news_id>/$',news_view.add_news,name='add_news'),
-]
+]+ static(settings.STATIC_URL, document_root = settings.STATIC_ROOT)
