@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6ed7e81-eac4-40d6-a234-027eb45212e9" name="默认" comment="" />
+    <list default="true" id="c6ed7e81-eac4-40d6-a234-027eb45212e9" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="985" />
     <option name="width" value="960" />
     <option name="height" value="1045" />
@@ -150,6 +152,24 @@
               <item name="zhiliaoketang" type="b2602c69:ProjectViewProjectNode" />
               <item name="zhiliaoketang" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhiliaoketang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiliaoketang" type="462c0819:PsiDirectoryNode" />
+              <item name="static_dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhiliaoketang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiliaoketang" type="462c0819:PsiDirectoryNode" />
+              <item name="static_dist" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhiliaoketang" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhiliaoketang" type="462c0819:PsiDirectoryNode" />
+              <item name="static_dist" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zhiliaoketang" type="b2602c69:ProjectViewProjectNode" />
@@ -258,16 +278,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7149000" />
+    <option name="totallyTimeSpent" value="8814000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="0" width="768" height="836" extended-state="0" />
-    <editor active="true" />
+    <frame x="788" y="0" width="768" height="836" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24929577" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24929577" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="manage.py@zhiliaoketang" visible="true" weight="0.2627841" />
+      <window_info anchor="bottom" id="manage.py@zhiliaoketang" weight="0.2627841" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2869318" />
